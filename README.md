@@ -11,7 +11,7 @@ Don't call this thing a MIRT because it isn't one. It's just an IR strobe that h
 - R3: 10K
 - C1: 1uF
 - C2: 0.01uF
-- U1: NE555PDojsST5VsAUhkS5.jpg
+- U1: NE555P
 - Q1: MPSA13-VP Darlington NPN Transistor
 - S1: 6x6 Tac Switch
 - LED1: 3mm LED (http://a.co/d/eKbFtHY)
