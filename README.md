@@ -1,7 +1,8 @@
 # -=DontCallTheCops=-
 IR strobe that blinks at 14hz
+Don't call this thing a MIRT because it isn't one. It's just an IR strobe that happends to blink at 14hz. Due To the limitations to the 555 I was not able to consistently build a circuit to produce a 14hz strobe. Version 2 uses an ATTINY85 and the scematic can be found in the link below. 
 
-Don't call this thing a MIRT because it isn't one. It's just an IR strobe that happends to blink at 14hz.
+The information shown in this repo is for educational use only. Please don't do anything illegal. :)
 
 ![screenshot](/DojsST5VsAUhkS5.jpg)
 
